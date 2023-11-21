@@ -2,7 +2,7 @@ import { Button, Nav, Navbar } from "react-bootstrap";
 import { BiLogIn, BiLogOut } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";
 import LanguageDropDown from "../LanguageDropdown/index.jsx";
-import studsLogo from "@/assets/images/logo2024.png";
+import studsLogo from "@/assets/images/logo2024_1.png";
 import { useTranslation } from "react-i18next";
 import { useContext, useState } from "react";
 import { HandleInstructionsContext } from "@/context";
